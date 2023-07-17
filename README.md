@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Mandal</h1>
 <h3 align="center">A passionate frontend software developer from India</h3>
-<img align="center" src="https://thumbs.dreamstime.com/b/programming-isometric-woman-vector-illustration-female-coder-sitting-desk-javascpirt-course-education-hacker-workplace-qa-168710695.jpg" alt="Riya Mandal" />
+<img align="center" src="https://thumbs.dreamstime.com/b/programming-isometric-woman-vector-illustration-female-coder-sitting-desk-javascpirt-course-education-hacker-workplace-qa-168710695.jpg" alt="Riya Mandal"  height="200" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolphinridz&label=Profile%20views&color=0e75b6&style=flat" alt="dolphinridz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/riyamwrites" target="blank"><img src="https://img.shields.io/twitter/follow/riyamwrites?logo=twitter&style=for-the-badge" alt="riyamwrites" /></a> </p>
